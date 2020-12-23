@@ -1,8 +1,8 @@
-#Knife Shot
+# Knife Shot
 
 This project I used all my knowledge at that time to create this game. The whole objective is to shot a knife through moving objects without hitting them. You can see the gif for game play. 
 
-##What I learned:
+## What I learned:
 
 	-[x] Working with Lists of gameobjects
 	-[x] Animation without using spritesheets
